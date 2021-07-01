@@ -1,5 +1,5 @@
 ### [Aplikasi Perekaman Toko Buku](http://uastokobuku.herokuapp.com/login) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
+### [Diagram dan penjelasan](https://drive.google.com/file/d/1Rq4DjJxmMHMwaUYTM-fp0yVaED1ucSMF/view?usp=sharing) klik
 #### By
 - Nama  : Eli Krisnawati
 - NIM   : 18090124
